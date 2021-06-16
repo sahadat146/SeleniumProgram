@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 public class Action_DoubleClick {
-	 static
+	 static m
 		{
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\blr-frontdesk-ptt\\New folder\\string\\AutomotionFramework\\driver\\chromedriver.exe");
 		}
